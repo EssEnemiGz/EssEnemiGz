@@ -1,16 +1,20 @@
-### Hi there 👋
+# print("Hola mundo")
+Soy Ess, un programador principiante y fanático de los gatos.
 
-<!--
-**EssEnemiGz/EssEnemiGz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Domino algunas tecnológias, tales como:
 
-Here are some ideas to get you started:
+- Python (Intermedio)
+- SQL (He trabajado con MariaDB, SQLite y MySQL)
+- Flask (Me manejo un poco con él)
+- HTML (Intermedio)
+- Sockets (Los he usado con python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Otras tecnologías que estoy aprendiendo:
+
+- JSON
+- CSS
+
+# Especialidades:
+
+- Python
+- SQL implementado con Python
