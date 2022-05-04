@@ -1,5 +1,5 @@
 # print("Hola mundo")
-Soy Ess, un programador principiante y fanático de los gatos.
+Soy Ess, un programador principiante. Empecé a programar a finales de agosto (2021), por lo que tengo casi un año de experiencia en la programaci
 
 Domino algunas tecnológias, tales como:
 
