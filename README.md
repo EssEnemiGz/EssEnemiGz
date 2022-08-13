@@ -7,12 +7,13 @@ Domino algunas tecnológias, tales como:
 - SQL (He trabajado con MariaDB, SQLite y MySQL)
 - Flask (Me manejo un poco con él)
 - HTML (Intermedio)
+- CSS (Intermedio)
+- JSON
 - Sockets (Los he usado con python)
 
 Otras tecnologías que estoy aprendiendo:
 
-- JSON
-- CSS
+- JS
 
 # Especialidades:
 
