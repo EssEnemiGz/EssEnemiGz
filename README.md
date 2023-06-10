@@ -3,13 +3,14 @@ Soy Ess, un programador principiante. Empecé a programar el 28 de noviembre (20
 
 Domino algunas tecnológias, tales como:
 
-- Python (Intermedio)
-- SQL (He trabajado con MariaDB, SQLite y MySQL)
-- Flask (Me manejo un poco con él)
-- HTML (Intermedio)
-- CSS (Intermedio)
+- Python 
+- SQL 
+- Flask 
+- HTML 
+- CSS 
 - JSON
-- Sockets (Los he usado con python)
+- Sockets
+- C
 
 Otras tecnologías que estoy aprendiendo:
 
@@ -19,3 +20,6 @@ Otras tecnologías que estoy aprendiendo:
 
 - Python
 - SQL implementado con Python
+- HTML
+- CSS
+- C
