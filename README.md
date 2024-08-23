@@ -26,8 +26,6 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=EssEnemiGz&theme=tokyonight" alt="streak stats"/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EssEnemiGz&theme=tokyonight" alt="top langs" />
 </div>
 
 <br/><br/>
