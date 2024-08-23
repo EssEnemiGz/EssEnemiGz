@@ -18,8 +18,8 @@
 
 <h2 align="center">🖥️ Languages-Frameworks-Tools 🖥️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,docker,notion,cloudflare" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql,flask,supabase" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,git,figma,notion,cloud,docker" />
+    <img src="https://skillicons.dev/icons?i=python,c,mysql,flask,supabase" /><br>
 </div>
 
 <h2 align="center">📊 My stats 📊</h2>
