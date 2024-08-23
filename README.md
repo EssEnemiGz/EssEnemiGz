@@ -1,12 +1,12 @@
 <h1 align="center">
-    Software Developer from Dominican Republic 🇩🇴
+    Software Developer from the Dominican Republic 🇩🇴
 </h1>
 <h3 align="center">In tech since November 28, 2021</h3>
 <div align="center">
 
-   🧑‍💻 I'm currently looking for **job**
+   🧑‍💻 Looking for a **job**
     
-   📚 I’m currently learning **AWS, React, Astro, Go, Kotlin, Swift**
+   📚 Learning **AWS, React, Astro, Go, Kotlin, Swift**
 </div>
 <div align="center"> 
   <a href="mailto:[REDACTED]">
