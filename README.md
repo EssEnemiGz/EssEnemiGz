@@ -9,7 +9,7 @@
    📚 Learning **AWS, React, Astro, Go, Kotlin, Swift**
 </div>
 <div align="center"> 
-  <a href="mailto:[REDACTED]">
+  <a href="mailto:bpichardo@softkitacademy.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
