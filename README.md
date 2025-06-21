@@ -17,9 +17,9 @@
 <h2 align="center">🖥️ Languages & Frameworks 🖥️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,html,css"/><br><br>
-    <h3 align="center">🛠️ Tools & Platforms 🛠️</h2>
+    <h3 align="center">🛠️ Tools & Platforms 🛠️</h3>
     <img src="https://skillicons.dev/icons?i=flask,supabase,postgresql,git,docker,cloudflare,figma" /><br><br>
-    <h3 align="center">💻 Operating Systems 💻</h2>
+    <h3 align="center">💻 Operating Systems 💻</h3>
     <img src="https://skillicons.dev/icons?i=linux,arch,apple" />
 </div>
 
