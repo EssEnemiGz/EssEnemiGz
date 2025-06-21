@@ -6,7 +6,7 @@
 
    🧑‍💻 Looking for a **job**
     
-   📚 Learning **AWS, React, Astro, Go, Kotlin, Swift**
+   📚 Learning **Azure, React, FastAPI**
 </div>
 <div align="center"> 
   <a href="mailto:bpichardo@softkitacademy.com">
@@ -16,7 +16,7 @@
 
 <h2 align="center">🖥️ Languages-Frameworks-Tools 🖥️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,git,figma,notion,cloudflare,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,docker" /><br>
     <img src="https://skillicons.dev/icons?i=c,python,flask,mysql,supabase,postgresql" /><br>
 </div>
 
