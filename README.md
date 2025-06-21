@@ -14,10 +14,13 @@
   </a>
 </div>
 
-<h2 align="center">🖥️ Languages-Frameworks-Tools 🖥️</h2>
+<h2 align="center">🖥️ Languages & Frameworks 🖥️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,supabase,postgresql,git,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css"/><br><br>
+    <h3 align="center">🛠️ Tools & Platforms 🛠️</h2>
+    <img src="https://skillicons.dev/icons?i=flask,supabase,postgresql,git,docker,cloudflare,figma" /><br><br>
+    <h3 align="center">💻 Operating Systems 💻</h2>
+    <img src="https://skillicons.dev/icons?i=linux,arch,apple" />
 </div>
 
 <h2 align="center">📊 My stats 📊</h2>
