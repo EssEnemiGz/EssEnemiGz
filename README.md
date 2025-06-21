@@ -9,7 +9,7 @@
    📚 Learning **Azure, React, FastAPI**
 </div>
 <div align="center"> 
-  <a href="mailto:bpichardo@softkitacademy.com">
+  <a href="mailto:biscenfabian@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
