@@ -26,7 +26,7 @@
 <h2 align="center">📊 My stats 📊</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=EssEnemiGz&theme=tokyonight" alt="streak stats"/>
+  <img width=390 src="https://stats-readme.softkitacademy.com/api?username=EssEnemiGz&theme=tokyonight" alt="streak stats"/>
 </div>
 
 <br/><br/>
