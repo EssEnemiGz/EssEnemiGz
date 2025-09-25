@@ -2,10 +2,7 @@
     Software Developer from the Dominican Republic 🇩🇴
 </h1>
 <h3 align="center">In tech since November 28, 2021</h3>
-<div align="center">
-
-   🧑‍💻 Looking for a **job**
-    
+<div align="center">    
    📚 Learning **Azure, React, FastAPI**
 </div>
 <div align="center"> 
@@ -18,7 +15,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,flask,javascript,html,css"/><br><br>
     <h3 align="center">🛠️ Tools & Platforms 🛠️</h3>
-    <img src="https://skillicons.dev/icons?i=supabase,postgresql,git,docker,cloudflare,figma" /><br><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,git,docker,cloudflare" /><br><br>
     <h3 align="center">💻 Operating Systems 💻</h3>
     <img src="https://skillicons.dev/icons?i=linux,arch,apple" />
 </div>
