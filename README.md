@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">In tech since November 28, 2021</h3>
 <div align="center">    
-   📚 Learning **Azure, React, FastAPI**
+   📚 Learning Azure, React, FastAPI
 </div>
 <div align="center"> 
   <a href="mailto:[REDACTED]">
