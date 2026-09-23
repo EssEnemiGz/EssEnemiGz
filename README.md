@@ -13,7 +13,7 @@
 
 <h2 align="center">🖥️ Languages & Frameworks 🖥️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,fastapi,javascript,html,css,react,tailwind"/><br><br>
+    <img src="https://skillicons.dev/icons?i=python,flask,fastapi,javascript,typescript,html,css,react,tailwind"/><br><br>
     <h3 align="center">🛠️ Tools & Platforms 🛠️</h3>
     <img src="https://skillicons.dev/icons?i=postgresql,git,docker,cloudflare" /><br><br>
     <h3 align="center">💻 Operating Systems 💻</h3>
